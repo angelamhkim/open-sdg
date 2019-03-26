@@ -1,5 +1,15 @@
 <h1>Change Log</h1>
 
+### 0.5.0
+
+* Allows configurable reporting statuses: choose which statuses to use, and the colours via custom css.
+
+**This release will require an update on your data service**
+
+Breaking changes:
+
+* Your data service must be using [sdg-build](https://github.com/open-sdg/sdg-build) version 0.3.0 or higher. Update the `scripts/requirements.txt` file in your data repo, see [the data site starter](https://github.com/open-sdg/open-sdg-data-testing/commit/077cefb98b65161b8ba539f72f8a31b9c47df772) for an example.
+
 ### 0.4.0
 
 Minor release with some multilingual enhancements and other bug fixes.
