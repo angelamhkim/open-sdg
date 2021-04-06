@@ -38,7 +38,7 @@ The platform is currently available in English.
 
 ## What customisations were added to the Open SDG platform?
 
-The City of L.A. took several steps to customize the platform (specifications on new additions and modifications can be found in the  [City of LA GitHub wiki](https://github.com/dawncomer/open-sdg-site-starter/wiki/)):
+The City of L.A. took several steps to customize the platform (specifications on new additions and modifications can be found in the  [City of LA GitHub wiki](https://github.com/CityOfLosAngeles/open-sdg-site-starter/wiki)):
 
 * As part of the City of L.A.’s adoption of the U.N. SDGs, our initial work involved localizing the international targets to City priorities and policies.  As such, an initial step in setting up our site was to display the localized targets on the platform, in a two-column format, along with the indicators.  A global_targets.yml file was created  to display our local targets.
 * To ensure visitors to the site are aware and have context of the City’s target localization efforts, a statement was added to each goal page, providing a link to the City’s SDG website, [sdg.lamayor.org](https://sdg.lamayor.org/), which explains the target localization process.  A localization.yml file was created to display this text.
